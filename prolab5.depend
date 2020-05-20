@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589718885 source:e:\projeler\c\prolab5\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stddef.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+
